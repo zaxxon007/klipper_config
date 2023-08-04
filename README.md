@@ -1,1 +1,1 @@
-Voron 2.4 klipper_config
+Voron 2.4 klipper configuration
